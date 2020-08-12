@@ -1,0 +1,1 @@
+fighter = {'hit_die': 'd10'}
